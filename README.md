@@ -97,13 +97,13 @@ Shows which product categories generate the highest revenue, helping prioritize 
 ---
 
 ### Units Sold vs Stock Levels
-![Units Sold vs Stock Levels](images/units_vs_stock.png)  
+![Units Sold vs Stock Levels](images/units_sold_vs_stock_levels.png)  
 Highlights overstocked or understocked SKUs to optimize inventory management.
 
 ---
 
 ### Profit Margin by SKU
-![Profit Margin by SKU](images/profit_margin_sku.png)  
+![Profit Margin by SKU](images/profit_margin_by_sku.png)  
 Identifies high and low-margin SKUs for cost optimization and pricing decisions.
 
 ---
@@ -115,7 +115,7 @@ Evaluates supplier reliability, defect rates, and lead times.
 ---
 
 ### Shipping Time vs Shipping Cost
-![Shipping Time vs Shipping Cost](images/shipping_time_cost.png)  
+![Shipping Time vs Shipping Cost](images/shipping_time_vs_cost.png)  
 Helps select carriers that balance delivery speed and cost efficiency.
 
 ---
