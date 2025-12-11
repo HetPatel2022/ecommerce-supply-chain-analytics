@@ -91,7 +91,7 @@ The dataset used for this project contains **simulated e-commerce supply chain d
 ## Key Visualizations
 
 ### Revenue by Product Type
-![Revenue by Product Type](images/revenue_by_product.png)  
+![Revenue by Product Type](images/revenue_by_product_type.png)  
 Shows which product categories generate the highest revenue, helping prioritize inventory and marketing efforts.
 
 ---
